@@ -3,7 +3,7 @@ import './App.scss'
 function App() {
   return (
     <>
-      <div>I'm Jake!</div>
+      <div className="text-3xl font-bold underline">I'm Jake!</div>
     </>
   )
 }
